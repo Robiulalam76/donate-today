@@ -9,7 +9,7 @@ body {
 .top-banner {
     background-image: url(images/bg.png);
     background-repeat: no-repeat;
-    height: 600px;
+    height: 650px;
 }
 
 .banner-title {
@@ -52,7 +52,7 @@ body {
 
 .donate-title h1 {
     font-weight: 700;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .donate-title p {
@@ -137,3 +137,76 @@ body {
 }
 
 /* Donate Plan section end */
+
+/* My Updates Section code start */
+.updates-title {
+    text-align: center;
+}
+
+.updates-title h1 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.updates-title p {
+    font-size: 15px;
+    color: #707070;
+}
+
+.input-aria {
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    background-color: #FFF4D6;
+    padding: 50px 60px;
+    border-radius: 5px;
+}
+
+.email input {
+    width: 300px;
+    height: 43px;
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+    background-color: #D9D9D9;
+}
+
+.subscribe a {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+    background-color: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    padding: 10px 30px;
+
+}
+
+/* My Updates Section code end */
+
+/* footer aria start */
+.footer-aria {
+    background-color: #0B0D17;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.footer-title h1 {
+    color: #FF5959;
+    padding-top: 20px;
+}
+
+.footer-title small {
+    color: white;
+}
+
+footer small {
+    color: white;
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 30px;
+}
+
+/* footer aria end */
